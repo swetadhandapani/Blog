@@ -1,0 +1,48 @@
+[
+    {
+        "title":"Introduction to Node.js",
+        "content": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript",
+        "category":"Programming",
+        "author":"Jane Doe",
+        "image": "https://nodejs.org/zh-tw/next-data/og?title=Node.js%20%E2%80%94%20Introduction%20to%20Node.js&type=announcement",
+        "createdAt":"2024-07-1ST10:00:00Z",
+        "updatedAt":"2024-07-1ST10:00:00Z"
+    },
+    {
+        "title": "Getting Started with MongoDB",
+        "content": "MongoDB is a NoSQL database that stores data in flexible, JSON-like documents.",
+        "category": "Database",
+        "author": "Alice Johnson",
+        "image": "https://www.pragimtech.com/wp-content/uploads/2022/01/getting-started-with-mongodb-database-1.jpg",
+        "createdAt": "2024-08-01T09:00:00Z",
+        "updatedAt": "2024-08-01T09:00:00Z"
+    },
+    {
+        "title": "Building REST APIs with Express.js",
+        "content": "Express.js is a web application framework for Node.js, designed for building RESTful APIs efficiently.",
+        "category": "Backend Development",
+        "author": "Michael Lee",
+        "image": "https://devdotcode.com/wp-content/uploads/2020/11/RESTful-API-with-Node.js-and-Express-devdotcode.com-.png",
+        "createdAt": "2024-08-05T12:30:00Z",
+        "updatedAt": "2024-08-05T12:30:00Z"
+    },
+    {
+        "title": "Understanding React Components",
+        "content": "React is a JavaScript library for building user interfaces, focusing on creating reusable components.",
+        "category": "Frontend Development",
+        "author": "Emily Davis",
+        "image": "https://www.patterns.dev/img/reactjs/react-components@1.5x.svg",
+        "createdAt": "2024-09-10T11:45:00Z",
+        "updatedAt": "2024-09-10T11:45:00Z"
+    },
+    {
+        "title": "Deploying MERN Applications",
+        "content": "Learn how to deploy a MERN stack application to services like Heroku or AWS.",
+        "category": "DevOps",
+        "author": "Chris Martin",
+        "image": "https://lh4.googleusercontent.com/BqWo8qCO2toGPSycJxaEfslg0Rrpx3tOspWCq63p7BzhFCP7G21l09NHZ5DwnBoMxDSymV0ytTOkjd21k5tpNFyLZlKG62mHZV81cTR86vgCoy6rkzXsaI-caw1lKhtAw8EVI18",
+        "createdAt": "2024-09-12T16:00:00Z",
+        "updatedAt": "2024-09-12T16:00:00Z"
+    }
+    
+]

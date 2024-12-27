@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Programming",
+        "slug": "programming",
+        "description": "Articles related to programming concepts, languages, and frameworks."
+    },
+    {
+        "name": "Database",
+        "slug": "database",
+        "description": "Resources and tutorials on databases, including NoSQL and relational databases."
+    },
+    {
+        "name": "Backend Development",
+        "slug": "backend-development",
+        "description": "Guides and tutorials focused on building server-side applications and RESTful APIs."
+    },
+    {
+        "name": "Frontend Development",
+        "slug": "frontend-development",
+        "description": "Content related to user interface development, including frameworks like React and Vue."
+    },
+    {
+        "name": "DevOps",
+        "slug": "devops",
+        "description": "Articles focused on deployment strategies, cloud services, and managing applications in production."
+    }
+]
